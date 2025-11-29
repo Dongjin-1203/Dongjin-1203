@@ -90,6 +90,6 @@
 
 **Currently Learning:** RLHF, Multimodal AI, MCP Automation, RAG, LLM, Model Quantization
 
-**Focus Areas:** LLM Fine-tuning | RAG Systems | Korean NLP
+**Focus Areas:** LLM Fine-tuning | RAG Systems
 
 </div>
