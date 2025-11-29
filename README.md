@@ -98,7 +98,7 @@
 
 ### 💡 Interested in AI/ML, NLP, LLM
 
-**Currently Learning:** RLHF, Multimodal AI, MCP Automation, RAG, LLM
+**Currently Learning:** RLHF, Multimodal AI, MCP Automation, RAG, LLM, Model Quantization
 
 **Focus Areas:** LLM Fine-tuning | RAG Systems | Korean NLP
 
