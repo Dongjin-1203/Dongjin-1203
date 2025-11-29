@@ -4,7 +4,7 @@
 
 <br>
 
-👋 Welcome to my GitHub profile!
+👋 정진하는 AI 개발자 준비생 지동진 입니다!
 
 <br>
 
@@ -50,6 +50,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-API-412991?style=flat-square&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white"/>
   <br>
@@ -74,18 +75,6 @@
 <br>
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dongjin-1203&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dongjin-1203&layout=compact&theme=radical)
-
-</div>
-
-<br>
-
 ## 🏆 Trophy 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dongjin-1203&row=1)](https://github.com/ryo-ma/github-profile-trophy)
@@ -96,7 +85,7 @@
 
 <div align="center">
 
-### 💡 Interested in AI/ML, NLP, LLM
+### 💡 Interested in AI/ML, NLP, Multimodal AI, AI Service Develop
 
 **Currently Learning:** RLHF, Multimodal AI, MCP Automation, RAG, LLM, Model Quantization
 
