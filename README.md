@@ -21,7 +21,7 @@
 - 📊 벡터 DB 대시보드 웹서비스 개발 | **2025~**
 - 🤖 코드잇 AI 엔지니어 부트캠프 | **2025-2026**
 - 🪖 육군 상벌점 관리 프로그램 개발 | **2025**
-- 📊 Dacon / Kaggle 데이터 분석 대회 참여 | **2025**
+- 📊 Dacon AI 경진대회 참여 | **2025**
 - 🪖 육군 데이터 한마당 경진대회(육군 군수사령부, 탄약지원사령부) | **2025** | **🥉 탄약지원사령관 노력상 수상**
 - 🔬 2021 물리학 연구 프로젝트 (불균형하게 도핑된 뒤틀린 이중층 구리산화물 초전도체 이론 연구) | **2021** | **🏆 최우수상 수상**
 
@@ -35,11 +35,11 @@
 - <a href="https://github.com/Dongjin-1203/Codeit-AI-1team-LLM-project"> [RFPilot] 한국어 공공입찰 RFP 문서 분석 RAG 챗봇</a> | **Python, LangChain, OpenAI API, Hugging Face, ChromaDB, RAGAS, LangSmith, Docker, Streamlit**
 - <a href="https://github.com/Dongjin-1203/LLM_trans_kor_eng">[Attention All is you Need 논문리뷰 결과] 트랜스포머 기반 한영 병렬 말뭉치 학습 번역 챗봇</a> | **PyTorch, Streamlit**
 - <a href="https://github.com/Dongjin-1203/9AD-MAIN">[웹 서비스] 육군 대대급 부대 상벌점 관리 프로그램</a> | **TypeScript, Next.js, PostgreSQL, Prisma,Vercel**
-- <a href="https://github.com/Dongjin-1203/Time_series_Practice">[시계열 분석/회귀 분석] 월마트 매장 판매 데이터 판매량 예측(육군 데이터 한마당 경진대회 참가 코드) </a> | **Python, Scikit-learn, Xgboost, Lightgbm, Statsmodels, Pandas, Matplotlib, Seaborn**
+- <a href="https://github.com/Dongjin-1203/Time_series_Practice">[시계열 분석/회귀 분석] 월마트 매장 판매 데이터 판매량 예측(육군 데이터 한마당 경진대회 참가 코드) </a> | **Python, Scikit-learn, Xgboost, Lightgbm, Statsmodels, Pandas, Matplotlib, Seaborn** | **🥉 탄약지원사령관 노력상 수상**
 
 #### 2021
 
-- <a href="https://github.com/Dongjin-1203/Restore-graduation-project-code">[졸업연구] 불균형하게 도핑된 뒤틀린 이중층 구리산화물 초전도체 이론 연구</a> | **Python, Numpy, Matplotlib**
+- <a href="https://github.com/Dongjin-1203/Restore-graduation-project-code">[졸업연구] 불균형하게 도핑된 뒤틀린 이중층 구리산화물 초전도체 이론 연구</a> | **Python, Numpy, Matplotlib** | **🏆 최우수상 수상**
 
 <br>
 
