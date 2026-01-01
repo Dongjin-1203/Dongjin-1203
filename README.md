@@ -18,6 +18,7 @@
 
 ## ✨ EXPERIENCES
 
+- 📊 AdGen_AI 의류 매장 맞춤 인스타그램 광고 생성 AI 서비스 개발 | **2025~2026**
 - 🤖 Fast API 활용 영화 평가 및 AI기반 리뷰 분석 사이트 및 영화 추천 챗봇 서비스 개발 | **2025.12**
 - 📊 벡터 DB 대시보드 웹서비스 개발 | **2025~**
 - 🤖 코드잇 AI 엔지니어 부트캠프 | **2025-2026**
@@ -30,8 +31,13 @@
 
 ## 🎯 Projects
 
+#### 2026
+
+- 추가 예정
+
 #### 2025
 
+- <a href="https://github.com/Dongjin-1203/AdGen_AI"> [AI 서비스] AdGen_AI 의류 매장 맞춤 인스타그램 광고 생성 AI 서비스</a> | **Python, SQL, TypeScript, Fast API, SDXL, Docker, GCP**
 - <a href="https://github.com/Dongjin-1203/Movie_moa"> [웹 서비스] 영화 평가 사이트 및 영화 추천 AI 서비스</a> | **Python, SQL, Streamlit, Fast API, ONNX, Docker**
 - <a href="https://github.com/Dongjin-1203/VectorDB-Dashboard"> [웹 서비스] 벡터 DB 시각화 대시보드</a> | **Python, Scikit-learn, Pandas, ChromaDB, Numpy, Streamlit**
 - <a href="https://github.com/Dongjin-1203/Codeit-AI-1team-LLM-project"> [RFPilot] 한국어 공공입찰 RFP 문서 분석 RAG 챗봇</a> | **Python, LangChain, OpenAI API, Hugging Face, ChromaDB, RAGAS, LangSmith, Docker, Streamlit**
