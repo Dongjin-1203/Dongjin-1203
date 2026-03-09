@@ -4,7 +4,7 @@
 
 <br>
 
-👋 정진하는 AI 개발자 준비생 지동진 입니다!
+👋 다양한 경험을 바탕으로 End to End 개발이 가능한 AI 개발자 지동진 입니다!
 
 <br>
 
@@ -33,7 +33,8 @@
 
 #### 2026
 
-- 추가 예정
+- <a href="https://github.com/Dongjin-1203/AdGen_AI_product"> [조코딩XOpenAIXPrimer AI 해커톤] AdGen_AI - 의류 매장 맞춤 광고 생성 AI 서비스</a> | **Python, SQL, TypeScript, Fast API, LangGraph, Docker, GCP**
+- <a href="https://github.com/Dongjin-1203/coding_test_platform"> [AI 서비스] AI 기반 코딩테스트 플랫폼 개발</a> | **Python, TypeScript**
 
 #### 2025
 
