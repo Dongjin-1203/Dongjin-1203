@@ -4,7 +4,7 @@
 
 <br>
 
-👋 다양한 경험을 바탕으로 End to End 개발이 가능한 AI 개발자 지동진 입니다!
+👋 비전공자를 위한 실무 맞춤 AI 교육 제공하고 실제 서비스를 속도감 있게 개발하는 AI 강사 & 개발자 지동진 입니다!
 
 <br>
 
@@ -18,6 +18,7 @@
 
 ## ✨ EXPERIENCES
 
+- 📊 콥스랩 AI 전속 강사 | **2026.03 ~ **
 - 📊 AdGen_AI 의류 매장 맞춤 인스타그램 광고 생성 AI 서비스 개발 | **2025~2026**
 - 🤖 Fast API 활용 영화 평가 및 AI기반 리뷰 분석 사이트 및 영화 추천 챗봇 서비스 개발 | **2025.12**
 - 📊 벡터 DB 대시보드 웹서비스 개발 | **2025~**
@@ -33,6 +34,7 @@
 
 #### 2026
 
+- <a href="https://github.com/Dongjin-1203/policy-fund-navigator"> [중소기업진흥공단 AI 서비스 개발] 중진공 AI 중기(中企) 자금 네비게이터</a> | **Langchain, LangGraph, Docker, AWS S3, MAS. Airflow, MLflow**
 - <a href="https://github.com/Dongjin-1203/AdGen_AI_product"> [조코딩XOpenAIXPrimer AI 해커톤] AdGen_AI - 의류 매장 맞춤 광고 생성 AI 서비스</a> | **Python, SQL, TypeScript, Fast API, LangGraph, Docker, GCP**
 - <a href="https://github.com/Dongjin-1203/coding_test_platform"> [AI 서비스] AI 기반 코딩테스트 플랫폼 개발</a> | **Python, TypeScript**
 
