@@ -4,7 +4,7 @@
 
 <br>
 
-👋 비전공자를 위한 실무 맞춤 AI 교육 제공하고 실제 서비스를 속도감 있게 개발하는 AI 강사 & 개발자 지동진 입니다!
+👋 실무 맞춤 AI 교육 제공하고 실제 서비스를 속도감 있게 개발하는 AI 강사 & 개발자 지동진 입니다!
 
 <br>
 
@@ -18,15 +18,23 @@
 
 ## ✨ EXPERIENCES
 
-- 📊 콥스랩 AI 전속 강사 | **2026.03~**
+- 🧑‍🏫 콥스랩 AI 전속 강사 & 개발 | **2026.03~**
 - 📊 AdGen_AI 의류 매장 맞춤 인스타그램 광고 생성 AI 서비스 개발 | **2025~2026**
 - 🤖 Fast API 활용 영화 평가 및 AI기반 리뷰 분석 사이트 및 영화 추천 챗봇 서비스 개발 | **2025.12**
 - 📊 벡터 DB 대시보드 웹서비스 개발 | **2025~**
 - 🤖 코드잇 AI 엔지니어 부트캠프 | **2025-2026**
 - 🪖 육군 상벌점 관리 프로그램 개발 | **2025**
 - 📊 Dacon AI 경진대회 참여 | **2025**
-- 🪖 육군 데이터 한마당 경진대회(육군 군수사령부, 탄약지원사령부) | **2025** | **🥉 탄약지원사령관 노력상 수상**
+- 🪖 육군 데이터 한마당 경진대회(육군 군수사령부, 탄약지원사령부) | **2025** | **🥉 탄약지원사령관 노력상(여단장급) 수상**
 - 🔬 2021 물리학 연구 프로젝트 (불균형하게 도핑된 뒤틀린 이중층 구리산화물 초전도체 이론 연구) | **2021** | **🏆 최우수상 수상**
+
+<br>
+
+## 🧑‍🏫 Education
+- 삼성전자 AI & 데이터 트랙 및 사내 AI tool 활용 교육 
+- KG 가족사 개발직군 AI 활용 교육
+- BNK 투자증권 직무 특화 AI Agent 활용 바이브코딩 교육
+- KIA AX PM 역량 평가 교육(AI Agent)
 
 <br>
 
@@ -41,12 +49,9 @@
 #### 2025
 
 - <a href="https://github.com/Dongjin-1203/AdGen_AI"> [AI 서비스] AdGen_AI 의류 매장 맞춤 인스타그램 광고 생성 AI 서비스</a> | **Python, SQL, TypeScript, Fast API, SDXL, Docker, GCP**
-- <a href="https://github.com/Dongjin-1203/Movie_moa"> [웹 서비스] 영화 평가 사이트 및 영화 추천 AI 서비스</a> | **Python, SQL, Streamlit, Fast API, ONNX, Docker**
-- <a href="https://github.com/Dongjin-1203/VectorDB-Dashboard"> [웹 서비스] 벡터 DB 시각화 대시보드</a> | **Python, Scikit-learn, Pandas, ChromaDB, Numpy, Streamlit**
 - <a href="https://github.com/Dongjin-1203/Codeit-AI-1team-LLM-project"> [RFPilot] 한국어 공공입찰 RFP 문서 분석 RAG 챗봇</a> | **Python, LangChain, OpenAI API, Hugging Face, ChromaDB, RAGAS, LangSmith, Docker, Streamlit**
-- <a href="https://github.com/Dongjin-1203/LLM_trans_kor_eng">[Attention All is you Need 논문리뷰 결과] 트랜스포머 기반 한영 병렬 말뭉치 학습 번역 챗봇</a> | **PyTorch, Streamlit**
 - <a href="https://github.com/Dongjin-1203/9AD-MAIN">[웹 서비스] 육군 대대급 부대 상벌점 관리 프로그램</a> | **TypeScript, Next.js, PostgreSQL, Prisma,Vercel**
-- <a href="https://github.com/Dongjin-1203/Time_series_Practice">[시계열 분석/회귀 분석] 월마트 매장 판매 데이터 판매량 예측(육군 데이터 한마당 경진대회 참가 코드) </a> | **Python, Scikit-learn, Xgboost, Lightgbm, Statsmodels, Pandas, Matplotlib, Seaborn** | **🥉 탄약지원사령관 노력상 수상**
+- <a href="https://github.com/Dongjin-1203/Time_series_Practice">[시계열 분석/회귀 분석] 월마트 매장 판매 데이터 판매량 예측(육군 데이터 한마당 경진대회 참가 코드) </a> | **Python, Scikit-learn, Xgboost, Lightgbm, Statsmodels, Pandas, Matplotlib, Seaborn** | **🥉 탄약지원사령관 노력상(여단장급) 수상**
 
 #### 2021
 
@@ -97,10 +102,10 @@
 
 <div align="center">
 
-### 💡 Interested in AI/ML, NLP, Multimodal AI, AI Service Develop
+### 💡 Interested in AI/ML, AI Service Develop
 
-**Currently Learning:** RLHF, Multimodal AI, MCP Automation, RAG, LLM, Model Quantization
+**Currently Learning:** RLHF, AI Agent System, LLM
 
-**Focus Areas:** LLM Fine-tuning | RAG Systems
+**Focus Areas:** AI Agent | RAG Systems
 
 </div>
